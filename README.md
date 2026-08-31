@@ -67,36 +67,6 @@ The practical work in this course primarily uses:
 * NLTK / spaCy
 * OpenCV
 
-## 📂 Repository Structure
-
-The repository will be organized approximately as follows:
-
-```text
-Introduction-to-Artificial-Intelligence/
-│
-├── Lectures/
-│   ├── Lecture-01/
-│   ├── Lecture-02/
-│   ├── Lecture-03/
-│   └── ...
-│
-├── Python-Examples/
-│
-├── Practical-Exercises/
-│
-├── Assignments/
-│
-├── Quizzes/
-│
-├── Project/
-│
-├── Resources/
-│
-└── README.md
-```
-
-The structure may be updated during the semester as new learning materials are added.
-
 ## 📝 Lectures
 
 Each lecture may include some or all of the following:
